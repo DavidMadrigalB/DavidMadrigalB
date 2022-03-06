@@ -178,7 +178,8 @@ public class Person
     @param ...
     @return The code of program
   */
-  public Code program(...) throws ExceptionTired {
+  public Code program(...) throws ExceptionTired
+  {
     ...
   }
   
@@ -188,17 +189,27 @@ public class Person
     @param ...
     @return Project
   */
-  public Project develop(...) throws ExceptionTired {
+  public Project develop(...) throws ExceptionTired
+  {
     ...
   }
   
   ...
   
   @Override
-  public void toString() {
+  public void toString()
+  {
     System.out.println("Name: " + name);
     System.out.println("Age: " + age);
     System.out.println("Birthday: " + new SimpleDateFormat("yyyy-MM-dd").format(BIRTHDAY););
   }
 }
 ``` 
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMadrigalB&theme=codeSTACKr" alt="Top languages" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=DavidMadrigalB&color=orange" />
+</p>
+
+## Credit to
+GIPHY for GIFs.
