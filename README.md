@@ -127,7 +127,7 @@ I've more experience with back-end than front-end.
 </table>
 </div>
 
-### Documentation & vesionning
+### Documentation & versionning
 <div align="center">
 <table style="boder:none;">
   <tr>
