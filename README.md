@@ -46,8 +46,8 @@ I like tenis, play videogames, watch sports, watch movies and programming with m
 I've more experience with back-end than front-end.
 
 
-### Knowledge
-(Construyendo)
+### :thought_balloon: Knowledge
+
 #### Competitive coding
 <div align="center">
 <table style="boder:none;">
