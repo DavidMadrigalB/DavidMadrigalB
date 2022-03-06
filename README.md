@@ -42,13 +42,12 @@ I like tenis, play videogames, watch sports, watch movies and programming with m
   <img src="https://media0.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif?cid=ecf05e472fbo0vvw7sr2ibhh4bxza5u5grf0fonn72e4augc&rid=giphy.gif&ct=g" alt="Gatito" />
 <p/>
 
-## :wrench: Languages and tools:
+# :wrench: Languages and tools:
 I've more experience with back-end than front-end.
 
+## :thought_balloon: Knowledge
 
-### :thought_balloon: Knowledge
-
-#### Competitive coding
+### Competitive coding
 <div align="center">
 <table style="boder:none;">
   <tr>
@@ -71,7 +70,7 @@ I've more experience with back-end than front-end.
 </table>
 </div>
 
-#### Web development
+### Web development
 <div align="center">
 <table style="boder:none;">
   <tr>
@@ -91,7 +90,7 @@ I've more experience with back-end than front-end.
 </table>
 </div>
 
-#### Web develoment - Frameworks
+### Web develoment - Frameworks
 <div align="center">
 <table style="boder:none;">
   <tr>
@@ -114,7 +113,7 @@ I've more experience with back-end than front-end.
 </table>
 </div>
 
-#### Database
+### Database
 <div align="center">
 <table style="boder:none;">
   <tr>
@@ -128,7 +127,7 @@ I've more experience with back-end than front-end.
 </table>
 </div>
 
-#### Documentation & vesionning
+### Documentation & vesionning
 <div align="center">
 <table style="boder:none;">
   <tr>
@@ -146,7 +145,7 @@ I've more experience with back-end than front-end.
 </table>
 </div>
 
-## I'm currenly learning
+## :mechanical_arm: I'm currenly learning
 <div align="center">
 <table style="boder:none;">
   <tr>
@@ -157,7 +156,7 @@ I've more experience with back-end than front-end.
 </table>
 </div>
 
-## My class in Java:
+## :coffee: My class in Java:
 ```java
 import java.text.DataFormat;
 import java.text.SimpleDateFormat;
