@@ -92,7 +92,67 @@ I've more experience with back-end than front-end.
 </div>
 
 #### Web develoment - Frameworks
+<div align="center">
+<table style="boder:none;">
+  <tr>
+    <td align="center">
+      <img width=55px height=55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Java Spring" />
+    </td>
+    <td align="center">
+      <img width=55px height=55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" />
+    </td>
+    <td align="center">
+      <img width=55px height=55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="JQuery" />
+    </td>
+    <td align="center">
+      <img width=55px height=55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" />
+    </td>
+    <td align="center">
+      <img width=55px height=55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" />
+    </td>
+  </tr>
+</table>
+</div>
 
 #### Database
+<div align="center">
+<table style="boder:none;">
+  <tr>
+    <td align="center">
+      <img width=55px height=55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Java Spring" />
+    </td>
+    <td align="center">
+      <img width=75px height=25px src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+    </td>
+  </tr>
+</table>
+</div>
 
 #### Documentation & vesionning
+<div align="center">
+<table style="boder:none;">
+  <tr>
+    <td align="center">
+      <img width=55px height=55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Github" />
+    </td>
+    <td align="center">
+      <img width=55px height=55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
+      <p>Figma</p>
+    </td>
+    <td align="center">
+      <img width=75px height=25px src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="Latex" />
+    </td>
+  </tr>
+</table>
+</div>
+
+### I'm currenly learning
+<div align="center">
+<table style="boder:none;">
+  <tr>
+    <td align="center">
+      <img width=55px height=55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" />
+    </td>
+  </tr>
+</table>
+</div>
