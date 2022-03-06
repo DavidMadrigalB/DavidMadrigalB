@@ -146,7 +146,7 @@ I've more experience with back-end than front-end.
 </table>
 </div>
 
-### I'm currenly learning
+## I'm currenly learning
 <div align="center">
 <table style="boder:none;">
   <tr>
@@ -156,3 +156,49 @@ I've more experience with back-end than front-end.
   </tr>
 </table>
 </div>
+
+## My class in Java:
+```java
+import java.text.DataFormat;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import ExceptionTired;
+import Project;
+import Code;
+
+public class Person
+{
+  public String name = "David Madrigal Buendía";
+  protected int age = 21;
+  private final Date BIRTHDAY = new Date(2000, 11, 02);
+  
+  /*
+    Method for programming something.
+    @param ...
+    @param ...
+    @return The code of program
+  */
+  public Code program(...) throws ExceptionTired {
+    ...
+  }
+  
+  /*
+    Method for develop a project.
+    @param ...
+    @param ...
+    @return Project
+  */
+  public Project develop(...) throws ExceptionTired {
+    ...
+  }
+  
+  ...
+  
+  @Override
+  public void toString() {
+    System.out.println("Name: " + name);
+    System.out.println("Age: " + age);
+    System.out.println("Birthday: " + new SimpleDateFormat("yyyy-MM-dd").format(BIRTHDAY););
+  }
+}
+``` 
