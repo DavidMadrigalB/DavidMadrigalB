@@ -200,7 +200,7 @@ public class Person
   {
     System.out.println("Name: " + name);
     System.out.println("Age: " + age);
-    System.out.println("Birthday: " + new SimpleDateFormat("yyyy-MM-dd").format(BIRTHDAY););
+    System.out.println("Birthday: " + new SimpleDateFormat("yyyy-MM-dd").format(BIRTHDAY));
   }
 }
 ``` 
