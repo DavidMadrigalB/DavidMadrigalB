@@ -175,7 +175,7 @@ import Code;
 public class Human extends Living
 {
   public String name = "David Madrigal Buendía";
-  protected byte age = 22;
+  protected short age = 22;
   private final Date BIRTHDAY = new Date(2000, 11, 02);
   
   /*
