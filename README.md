@@ -138,7 +138,7 @@ I can use...
 <table style="boder:none;">
   <tr>
     <td align="center">
-      <img width=55px height=55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Github" />
+      <img width=55px height=55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Github" />
     </td>
     <td align="center">
       <img width=55px height=55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
