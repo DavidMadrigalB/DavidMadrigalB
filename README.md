@@ -9,10 +9,10 @@ I like to be called Madrigal.
       <a href="https://github.com/DavidMadrigalB"><img src="https://img.icons8.com/glyph-neue/64/000000/github.png"/></a>
     </td>
     <td>
-      <a href="https://www.linkedin.com/in/david-madrigal-buendia/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+      <a href="https://www.linkedin.com/in/david-madrigal-buend%C3%ADa/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
     </td>
     <td>
-      <a href="mailto:madrigal.bd@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail-new.png"/></a>
+      <a href="mailto:davidmadrigalbuendia@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail-new.png"/></a>
     </td>
     <td>
       <a href="https://t.me/DavidMadrigalB"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
@@ -28,11 +28,11 @@ I like to be called Madrigal.
 
 
 ## :information_source: About me
-I live in Mexico, City. mx
+De México, vivo en la Ciudad de México. mx
 
-I'm student in ESCOM (Escuela Superior de Cómputo, in Spanish), IPN. In the career of Computer Systems Engineering :computer:.
+Terminé mis materias en las Escuela Superior de Cómputo (ESCOM - IPN). Estudié la carrera en Ingeniería en Sistemas Computacionales :computer:
 
-I like tenis, play videogames, watch sports, watch movies and programming with music. :point_up::notes:
+Me gusta jugar videojuegos, ver deportes y películas. Suelo escuchar música una gran parte del día, me gusta caminar y practicar atletismo :point_up::notes:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DavidMadrigalB&show_icons=true&theme=dark" alt="Gatito" />
@@ -43,11 +43,12 @@ I like tenis, play videogames, watch sports, watch movies and programming with m
 <p/>
 
 # :wrench: Languages and tools:
-I've more experience with back-end than front-end.
+I've more experience with back-end than front-end. Also, I like the back-end much better.
 
 ## :thought_balloon: Knowledge
 
 ### Competitive coding
+The language I have the most experience with is Java, but I've also worked with...
 <div align="center">
 <table style="boder:none;">
   <tr>
@@ -91,6 +92,7 @@ I've more experience with back-end than front-end.
 </div>
 
 ### Web develoment - Frameworks
+I have worked with...
 <div align="center">
 <table style="boder:none;">
   <tr>
@@ -109,6 +111,9 @@ I've more experience with back-end than front-end.
     <td align="center">
       <img width=55px height=55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" />
     </td>
+    <td align="center">
+      <img width=55px height=55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django" />
+    </td>
   </tr>
 </table>
 </div>
@@ -118,7 +123,7 @@ I've more experience with back-end than front-end.
 <table style="boder:none;">
   <tr>
     <td align="center">
-      <img width=55px height=55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Java Spring" />
+      <img width=55px height=55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql" />
     </td>
     <td align="center">
       <img width=75px height=25px src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -128,6 +133,7 @@ I've more experience with back-end than front-end.
 </div>
 
 ### Documentation & versionning
+I can use...
 <div align="center">
 <table style="boder:none;">
   <tr>
@@ -144,6 +150,7 @@ I've more experience with back-end than front-end.
   </tr>
 </table>
 </div>
+And UML diagrams.
 
 ## :mechanical_arm: I'm currenly learning
 <div align="center">
@@ -165,10 +172,10 @@ import ExceptionTired;
 import Project;
 import Code;
 
-public class Person
+public class Human extends Living
 {
   public String name = "David Madrigal Buendía";
-  protected int age = 21;
+  protected int age = 22;
   private final Date BIRTHDAY = new Date(2000, 11, 02);
   
   /*
@@ -179,7 +186,7 @@ public class Person
   */
   public Code program(...) throws ExceptionTired
   {
-    ...
+    // ...
   }
   
   /*
@@ -190,17 +197,17 @@ public class Person
   */
   public Project develop(...) throws ExceptionTired
   {
-    ...
+    // ...
   }
   
-  ...
+  // ... (Setters & Getters)
   
   @Override
-  public void toString()
+  public String toString()
   {
-    System.out.println("Name: " + name);
-    System.out.println("Age: " + age);
-    System.out.println("Birthday: " + new SimpleDateFormat("yyyy-MM-dd").format(BIRTHDAY));
+    return "Name: " + name + "\n" +
+            "Age: " + age + "\n" +
+            "Birthday: " + new SimpleDateFormat("yyyy-MM-dd").format(BIRTHDAY) + "\n";
   }
 }
 ``` 
@@ -212,3 +219,4 @@ public class Person
 
 ## Credit to
 GIPHY for GIFs.
+https://github.com/devicons/devicon for icons.
