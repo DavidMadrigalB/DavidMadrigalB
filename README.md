@@ -42,7 +42,7 @@ Me gusta jugar videojuegos, ver deportes y películas. Suelo escuchar música un
   <img src="https://media0.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif?cid=ecf05e472fbo0vvw7sr2ibhh4bxza5u5grf0fonn72e4augc&rid=giphy.gif&ct=g" alt="Gatito" />
 <p/>
 
-# :wrench: Languages and tools:
+# 🔧 Languages and tools:
 I've more experience with back-end than front-end. Also, I like the back-end much better.
 
 ## :thought_balloon: Knowledge
@@ -163,7 +163,7 @@ And UML diagrams.
 </table>
 </div>
 
-## :coffee: My class in Java:
+## 🗯 My profile class in Java:
 ```java
 import java.text.DataFormat;
 import java.text.SimpleDateFormat;
