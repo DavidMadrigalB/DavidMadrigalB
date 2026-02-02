@@ -28,15 +28,9 @@ I like to be called Madrigal.
 
 
 ## :information_source: About me
-De México, vivo en la Ciudad de México. mx
+I'm from Mexico, I live in CDMX.
 
-Terminé mis materias en las Escuela Superior de Cómputo (ESCOM - IPN). Estudié la carrera en Ingeniería en Sistemas Computacionales :computer:
-
-Me gusta jugar videojuegos, ver deportes y películas. Suelo escuchar música una gran parte del día, me gusta caminar y practicar atletismo :point_up::notes:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidMadrigalB&show_icons=true&theme=dark" alt="Gatito" />
-<p/>
+I have completed my studies in Computer Systems Engineering at ESCOM - IPN. :computer: :point_up::notes:
 
 <p align="center">
   <img src="https://media0.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif?cid=ecf05e472fbo0vvw7sr2ibhh4bxza5u5grf0fonn72e4augc&rid=giphy.gif&ct=g" alt="Gatito" />
@@ -212,8 +206,6 @@ public class Human extends Living
 }
 ``` 
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMadrigalB&theme=codeSTACKr" alt="Top languages" />
-  <br />
   <img src="https://komarev.com/ghpvc/?username=DavidMadrigalB&color=orange" />
 </p>
 
